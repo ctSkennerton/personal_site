@@ -1,6 +1,6 @@
 ---
 title: 'Résumé'
-date: 07 Jul 2019
+date: 25 Aug 2020
 draft: false
 ---
 
@@ -10,6 +10,10 @@ Experience
 ### Data Engineer
 
 #### Pendulum Therapeutics 2019 — Present
+
+* Developed data analysis pipelines for processing genomics data
+* Primary developer on an internal web application using a graph database backend, a python API layer and a VueJS frontend
+* Developed client libraries so data scientists could easily access internal REST APIs
 
 ### Bioinformatics Cloud Engineer
 
