@@ -10,7 +10,7 @@ adaptive immunity, known as [CRISPR](https://en.wikipedia.org/wiki/CRISPR).
 At the time I was interested in tracking this type of immune system
 in bacterial communities to track co-evolution between bacteria and
 their viruses.{{< sidenote "thesis_link">}}  For anyone interested and brave enough,
-[here]() is a link to my thesis. {{< /sidenote >}}  After I finished up
+[here](/media/connor_skennerton_phd_thesis.pdf) is a link to my thesis. {{< /sidenote >}}  After I finished up
 writing, submitting, and ultimately obtaining my PhD I realised that
 large portions of the literature review section would never be
 published in a scientific journal. I came to the realisation that
