@@ -2,7 +2,7 @@
 title: 'Using Amazon Neptune full text search'
 date: Sun, 23 Aug 2020 22:14:10 -0700
 draft: false
-tags: ['Neptune', 'AWS', 'full text search', 'elasticsearch']
+tags: ['Neptune', 'AWS', 'full text search', 'elasticsearch', 'tinkerpop', 'gremlin']
 ---
 
 I've been trying out [Amazon Neptune's](https://aws.amazon.com/neptune/) 
