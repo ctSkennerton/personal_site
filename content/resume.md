@@ -53,6 +53,8 @@ Education
 Publications
 ------------
 
+Sim, M., **Skennerton, C. T.,** Orphan, V. J. (2021) "[Physiological, genomic, and sulfur isotopic characterization of methanol metabolism by Desulfovibrio carbinolicus](https://pubmed.ncbi.nlm.nih.gov/33444327/)". PLoS ONE. 16(1): e0245069
+
 Yu, H., Susanti, D., McGlynn, S. E., **Skennerton, C. T.,** Chourey, K., Iyer, R., Scheller, S., Tavormina, P. L., Hettich, R. L., Mukhopadhyay, B., Orphan V. J. (2018) "[Comparative Genomics and Proteomic Analysis of Assimilatory Sulfate Reduction Pathways in Anaerobic Methanotrophic Archaea](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286981/)". Frontiers Microbiol. 9: 2917
 
 **Skennerton, C. T.**, Chourey, K., Iyer, R., Hettich, R. L., Tyson, G. W., Orphan, V. J. (2017) "[Methane-Fueled Syntrophy through Extracellular Electron Transfer: Uncovering the Genomic Traits Conserved within Diverse Bacterial Partners of Anaerobic Methanotrophic Archaea](https://www.ncbi.nlm.nih.gov/pubmed/28765215)". mBio 8(4):e00530-17
