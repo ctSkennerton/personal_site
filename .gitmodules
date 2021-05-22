@@ -1,6 +1,3 @@
-[submodule "themes/slick"]
-	path = themes/slick
-	url = https://github.com/spookey/slick.git
 [submodule "public"]
 	path = public
 	url = git@github.com:ctSkennerton/ctSkennerton.github.io.git
