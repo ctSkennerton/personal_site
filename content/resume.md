@@ -53,6 +53,8 @@ Education
 Publications
 ------------
 
+Yu, H., **Skennerton, C. T.,** Chadwick, G. L., Leu, A. O., Aoki, M., Tyson, G. W., Orphan, V. J. (2021) "[Sulfate differentially stimulates but is not respired by diverse anaerobic methanotrophic archaea](https://pubmed.ncbi.nlm.nih.gov/34285362/)". ISME J.
+
 Sim, M., **Skennerton, C. T.,** Orphan, V. J. (2021) "[Physiological, genomic, and sulfur isotopic characterization of methanol metabolism by Desulfovibrio carbinolicus](https://pubmed.ncbi.nlm.nih.gov/33444327/)". PLoS ONE. 16(1): e0245069
 
 Yu, H., Susanti, D., McGlynn, S. E., **Skennerton, C. T.,** Chourey, K., Iyer, R., Scheller, S., Tavormina, P. L., Hettich, R. L., Mukhopadhyay, B., Orphan V. J. (2018) "[Comparative Genomics and Proteomic Analysis of Assimilatory Sulfate Reduction Pathways in Anaerobic Methanotrophic Archaea](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286981/)". Frontiers Microbiol. 9: 2917
