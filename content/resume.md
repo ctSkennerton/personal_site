@@ -1,27 +1,27 @@
 ---
 title: 'Résumé'
-date: 25 Aug 2020
+date: 05 Oct 2021
 draft: false
 ---
 
 Experience
 ----------
 
-### Data Engineer
+### (Senior/Staff) Data Engineer
 
 #### Pendulum Therapeutics 2019 — Present
+* Developed internal web applications using PostgreSQL or Amazon Neptune as the database layer, Flask/Django as the web server/API layer and VueJS frontend layer.
+* Developed Python libraries so data scientists could easily interact with internal REST APIs and databases.
+* Developed data analysis pipelines using Luigi for processing genomics data for genome assembly, variant calling, contamination detection, and metabolic reconstruction in AWS cloud infrastructure.
 
-* Developed data analysis pipelines for processing genomics data
-* Primary developer on an internal web application using a graph database backend, a python API layer and a VueJS frontend
-* Developed client libraries so data scientists could easily access internal REST APIs
 
 ### Bioinformatics Cloud Engineer
 
 #### Second Genome 2018 — 2019
 
-*   Converted _Holmes_, Second Genome's genomic processing pipeline, to a serverless architecture using Docker, AWS lambda, AWS Batch, and AWS SQS.
-*   Helped convert _Gallifrey_, Second Genome's metagenomic/metatranscriptomic processing pipeline to a server less architecture using Docker, AWS Batch
-*   Worked to unify Second Genome's python code base so that all teams could work from the same library 
+* Converted bioinformatics pipelines for processing genomic and metagenomic data into serverless, containerized applications using Docker, AWS Batch, AWS Lambda, AWS SQS.
+* Spearheaded python code consolidation within the company into a single unified library, enforcing test-driven development and software development lifecycle practices.
+* Developed ETL pipelines to automatically scrape NCBI and IMG databases and integrate them with private datasets into data warehouses
 
 ### Postdoctoral Research Fellow
 
@@ -52,6 +52,8 @@ Education
 
 Publications
 ------------
+
+Chadwick, G. L., **Skennerton, C. T.,** Laso-Pérez, R., Leu, A. O., Speth, D. R., Yu, H., Morgan-Lang, C., Hatzenpichler, R., Goudeau, D., Malmstrom, R., Brazelton, W. J., Woyke, T., Hallam, S. J., Tyson, G. W., Wegener, G., Boetius, A., Orphan, V. J. (2021) "[Comparative genomics reveals electron transfer and syntrophic mechanisms differentiating methanotrophic and methanogenic archaea](https://www.biorxiv.org/content/10.1101/2021.09.25.461819v1)". bioRxiv.
 
 Yu, H., **Skennerton, C. T.,** Chadwick, G. L., Leu, A. O., Aoki, M., Tyson, G. W., Orphan, V. J. (2021) "[Sulfate differentially stimulates but is not respired by diverse anaerobic methanotrophic archaea](https://pubmed.ncbi.nlm.nih.gov/34285362/)". ISME J.
 
