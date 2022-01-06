@@ -53,7 +53,7 @@ Education
 Publications
 ------------
 
-Chadwick, G. L., **Skennerton, C. T.,** Laso-Pérez, R., Leu, A. O., Speth, D. R., Yu, H., Morgan-Lang, C., Hatzenpichler, R., Goudeau, D., Malmstrom, R., Brazelton, W. J., Woyke, T., Hallam, S. J., Tyson, G. W., Wegener, G., Boetius, A., Orphan, V. J. (2021) "[Comparative genomics reveals electron transfer and syntrophic mechanisms differentiating methanotrophic and methanogenic archaea](https://www.biorxiv.org/content/10.1101/2021.09.25.461819v1)". bioRxiv.
+Chadwick, G. L., **Skennerton, C. T.,** Laso-Pérez, R., Leu, A. O., Speth, D. R., Yu, H., Morgan-Lang, C., Hatzenpichler, R., Goudeau, D., Malmstrom, R., Brazelton, W. J., Woyke, T., Hallam, S. J., Tyson, G. W., Wegener, G., Boetius, A., Orphan, V. J. (2022) "[Comparative genomics reveals electron transfer and syntrophic mechanisms differentiating methanotrophic and methanogenic archaea](https://doi.org/10.1371/journal.pbio.3001508)". PLoS Biol 20(1): e3001508.
 
 Yu, H., **Skennerton, C. T.,** Chadwick, G. L., Leu, A. O., Aoki, M., Tyson, G. W., Orphan, V. J. (2021) "[Sulfate differentially stimulates but is not respired by diverse anaerobic methanotrophic archaea](https://pubmed.ncbi.nlm.nih.gov/34285362/)". ISME J.
 
