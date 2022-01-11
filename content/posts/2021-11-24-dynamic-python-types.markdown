@@ -1,7 +1,7 @@
 ---
 title: 'Dynamic types in Python.'
 date: Wed, 24 Nov 2021 01:45:00 -0800
-draft: true
+draft: false
 tags: ['python']
 ---
 

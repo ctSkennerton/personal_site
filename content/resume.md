@@ -53,6 +53,8 @@ Education
 Publications
 ------------
 
+McMurdie, P. J., Stoeva, M. K., Justice, N., Nemchek, M., Sieber, C. M. K., Tyagi, S., Gines J., **Skennerton, C. T.,** Souza, M., Kolterman, O., Eid, J. (2022). "[Increased circulating butyrate and ursodeoxycholate during probiotic intervention in humans with type 2 diabetes](https://doi.org/10.1186/s12866-021-02415-8)". BMC Microbiol 22, 19 (2022).
+
 Chadwick, G. L., **Skennerton, C. T.,** Laso-Pérez, R., Leu, A. O., Speth, D. R., Yu, H., Morgan-Lang, C., Hatzenpichler, R., Goudeau, D., Malmstrom, R., Brazelton, W. J., Woyke, T., Hallam, S. J., Tyson, G. W., Wegener, G., Boetius, A., Orphan, V. J. (2022) "[Comparative genomics reveals electron transfer and syntrophic mechanisms differentiating methanotrophic and methanogenic archaea](https://doi.org/10.1371/journal.pbio.3001508)". PLoS Biol 20(1): e3001508.
 
 Yu, H., **Skennerton, C. T.,** Chadwick, G. L., Leu, A. O., Aoki, M., Tyson, G. W., Orphan, V. J. (2022) "[Sulfate differentially stimulates but is not respired by diverse anaerobic methanotrophic archaea](https://pubmed.ncbi.nlm.nih.gov/34285362/)". ISME J 16(1): 168-177.
