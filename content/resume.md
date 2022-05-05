@@ -1,6 +1,6 @@
 ---
 title: 'Résumé'
-date: 05 Oct 2021
+date: 04 May 2022
 draft: false
 ---
 
@@ -13,7 +13,8 @@ Experience
 * Developed internal web applications using PostgreSQL or Amazon Neptune as the database layer, Flask/Django as the web server/API layer and VueJS frontend layer.
 * Developed Python libraries so data scientists could easily interact with internal REST APIs and databases.
 * Developed data analysis pipelines using Luigi for processing genomics data for genome assembly, variant calling, contamination detection, and metabolic reconstruction in AWS cloud infrastructure.
-
+* Developed ETL and ELT pipelines for integrating Marketing, Manufacturing, and R&D data from SaaS applications and internal databases
+* Modelled and transformed data using DBT to create a central data warehouse using Snowflake
 
 ### Bioinformatics Cloud Engineer
 
