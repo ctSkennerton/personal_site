@@ -16,7 +16,7 @@ copyright = "Connor Skennerton — All rights reserved."
 
 [params]
 # Site subtitle (not shown if commented out or set to false)
-    subtitle = "bio(logist | informatician)"
+    subtitle = "Data Engineer"
 
     # Site description
     description = "Connor Skennerton's personal website"
