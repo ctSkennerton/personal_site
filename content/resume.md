@@ -1,21 +1,20 @@
 ---
 title: 'Résumé'
-date: 04 May 2022
+date: 22 Aug 2022
 draft: false
 ---
 
 Experience
 ----------
 
-### (Senior/Staff) Data Engineer
+### Senior Staff Data Engineer
 
 #### Pendulum Therapeutics 2019 — Present
-* Developed internal web applications using PostgreSQL or Amazon Neptune as the database layer, Flask/Django as the web server/API layer and VueJS frontend layer.
-* Developed Python libraries so data scientists could easily interact with internal REST APIs and databases.
-* Developed data analysis pipelines using Luigi for processing genomics data for genome assembly, variant calling, contamination detection, and metabolic reconstruction in AWS cloud infrastructure.
-* Developed ETL and ELT pipelines for integrating Marketing, Manufacturing, and R&D data from SaaS applications and internal databases
-* Modelled and transformed data using DBT to create a central data warehouse using Snowflake
-
+* Worked cross functionally with relevant stakeholders at Pendulum to architect the full stack of software and data infrastructure.
+* Architected Python libraries to enable data scientists to easily interact with REST APIs and databases.
+* Managed junior software engineers, mentored their technical development with pair programming and code reviews while helping to balance their personal career objectives with company goals.
+* Led development of internal web applications. Creating the data model, API, and frontend layer.
+* Developed ETL and ELT pipelines for integrating Marketing, Manufacturing, and R&D data from SaaS applications and internal databases into a Snowflake data warehouse using Luigi, Prefect, and DBT.
 ### Bioinformatics Cloud Engineer
 
 #### Second Genome 2018 — 2019
