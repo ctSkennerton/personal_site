@@ -4,4 +4,35 @@ date: Thu, 07 Jul 2019 23:34:11 +0000
 draft: false
 ---
 
-I am a Data Engineer currently working at [Pendulum Therapeutics](http://pendulum.co) . I received my PhD at [UQ](http://uq.edu.au) in the [Australian Centre for Ecogenomics](http://ecogenomic.org). Throughout my PhD I was at the interface of microbial ecology, chemical engineering, and computational biology and have gained many skills ranging from microscopy, reactor operation and computer programming. I love looking at genomes and developing hypotheses on ecology and physiology based on genomic data. My current role is developing and engineering serverless bioinformatics pipelines using [AWS](https://aws.amazon.com), however my background in molecular biology allows me to effectively work in collaboration with wet-lab scientists and to place the inferences of metagenomic data into a broader biological framework.
+I am a Data/Software Engineer currently working at [Pendulum
+Therapeutics](http://pendulum.co) . I received my PhD at
+[UQ](http://uq.edu.au) in the [Australian Centre for
+Ecogenomics](http://ecogenomic.org). Throughout my PhD I was at the
+interface of microbial ecology, chemical engineering, and computational
+biology and have gained many skills ranging from microscopy, reactor
+operation and computer programming.
+
+During my PhD, I developed many data analysis skills, including
+statistical inference, programming, and developing novel bioinformatics
+algorithms. I further honed these skills as a postdoctoral researcher
+at Caltech developing a SQL database to integrate diverse data
+sources while mentoring PhD students in bioinformatics.
+
+I transitioned to working in industry at Second Genome where I used
+my bioinformatics knowledge to implement scalable data analysis
+workflows in AWS. At Pendulum Therapeutics I have been involved in
+all aspects of the software and data stack including full-stack
+development of internal web applications, ETL and ELT pipelines,
+data warehousing, third-party data integrations, deployment/devops
+on AWS, and reporting and analytics.
+
+I’m fluent in Python, however I have written software in diverse
+languages including Javascript, Typescript, Perl, R, Smalltalk,
+Java, and C++. As part of my duties I regularly collaborate with
+members of the scientific team and with non-technical members of
+the company to understand user requirements and build solutions for
+laboratory and manufacturing teams. I am passionate about analysis
+automation, eﬀicient data processing, and believe strongly in version
+control, test-driven development, and literate programming techniques
+to ensure reproducibility.
+
