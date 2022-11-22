@@ -1,15 +1,19 @@
 ---
 title: 'Résumé'
-date: 22 Aug 2022
+date: 15 Nov 2022
 draft: false
 ---
 
 Experience
 ----------
 
+### Senior Software Engineer
+
+#### Roblox 2022 - Present
+
 ### Senior Staff Data Engineer
 
-#### Pendulum Therapeutics 2019 — Present
+#### Pendulum Therapeutics 2019 — 2022
 * Worked cross functionally with relevant stakeholders at Pendulum to architect the full stack of software and data infrastructure.
 * Architected Python libraries to enable data scientists to easily interact with REST APIs and databases.
 * Managed junior software engineers, mentored their technical development with pair programming and code reviews while helping to balance their personal career objectives with company goals.

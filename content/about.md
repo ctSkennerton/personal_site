@@ -1,13 +1,11 @@
 ---
 title: 'About Me'
-date: Thu, 07 Jul 2019 23:34:11 +0000
+date: Tue, 15 Nov 2022 09:15:00 -0800
 draft: false
 ---
 
-I am a Data/Software Engineer currently working at [Pendulum
-Therapeutics](http://pendulum.co) . I received my PhD at
-[UQ](http://uq.edu.au) in the [Australian Centre for
-Ecogenomics](http://ecogenomic.org). Throughout my PhD I was at the
+I am a Data Engineer currently working at [Roblox](http://roblox.com).
+I received my PhD at [UQ](http://uq.edu.au) in the [Australian Centre for Ecogenomics](http://ecogenomic.org). Throughout my PhD I was at the
 interface of microbial ecology, chemical engineering, and computational
 biology and have gained many skills ranging from microscopy, reactor
 operation and computer programming.
@@ -20,7 +18,7 @@ sources while mentoring PhD students in bioinformatics.
 
 I transitioned to working in industry at Second Genome where I used
 my bioinformatics knowledge to implement scalable data analysis
-workflows in AWS. At Pendulum Therapeutics I have been involved in
+workflows in AWS. At Pendulum Therapeutics I was involved in
 all aspects of the software and data stack including full-stack
 development of internal web applications, ETL and ELT pipelines,
 data warehousing, third-party data integrations, deployment/devops
