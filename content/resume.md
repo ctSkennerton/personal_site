@@ -1,6 +1,6 @@
 ---
 title: 'Résumé'
-date: 15 Nov 2022
+date: 10 Nov 2024
 draft: false
 ---
 
@@ -10,6 +10,8 @@ Experience
 ### Senior Software Engineer
 
 #### Roblox 2022 - Present
+* Part of the core Data Engineering team to build growth accounting and engagement datasets.
+* Developed tooling and frameworks to abstract boilerplate of building data pipelines.
 
 ### Senior Staff Data Engineer
 
